@@ -1,6 +1,6 @@
 # Traffic Sign Recognition with Convolutional Neural Networks (CNN)
 
-![Traffic Sign Recognition](hero-image.jpg)
+![Traffic Sign Recognition](stop.png)
 
 ## Overview
 
